@@ -1,0 +1,1 @@
+This is an exercise from the Zero to Mastery course DOM Events in DOM Manipulation. Making a shopping list where you can add and delete elements as well a crossing them out, based on the event happing via Javascript.
